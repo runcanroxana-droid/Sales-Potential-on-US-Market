@@ -20,10 +20,10 @@ Prioritisation of high-income households or slightly above average, with targete
 Data Structure and Initial Checks
 ---
 The Us Income Database Structure , as seen below, contains two main Tables : US Household Income and US Household Income Statistics with a total row count of 65,059.
-￼
-<img width="778" height="728" alt="Screenshot 2026-05-26 at 17 39 11" src="https://github.com/user-attachments/assets/c23f9e2d-854b-4e80-95dc-2e56cf38d4f0" />
 
- 
+<img width="707" height="667" alt="Tables_Schema" src="https://github.com/user-attachments/assets/8372f875-ce1c-4dff-81c9-5746d2ae73c2" />
+
+
 Executive Summary 
 ---
 The most important aspects of this project are here.
