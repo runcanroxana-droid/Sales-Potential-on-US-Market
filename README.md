@@ -1,4 +1,4 @@
-# US Household Income Distribution 
+# Sales Potential On The US Market Based On Income
 
 
 
